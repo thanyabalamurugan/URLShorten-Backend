@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OGYiNA/tbcGUh2ZdQX2S+S5r1DkMi9B3jsxlkPxvXa8=",
+  "Source": "UrlShortenerApi",
+  "BasePath": "_content/UrlShortenerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
