@@ -27,16 +27,3 @@ Click the displayed shortened URL.
 It should redirect you to the original long URL.
 
 
-Testing the Application:
-
-1. View Tasks:
-When the app loads, it will fetch all tasks from the backend and display them in a table.
-2. Add a Task:
-Enter a task in the input field.
-Click the Add button.
-The new task will appear in the list.
-3. Update Task Status:
-Click the Complete button next to a task to mark it as completed.
-Click Undo to revert the status back to pending.
-4. Delete a Task:
-Click the Delete button next to a task to remove it from the list.
