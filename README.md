@@ -27,3 +27,4 @@ Click the displayed shortened URL.
 It should redirect you to the original long URL.
 
 
+Example input ----> https://www.google.com
